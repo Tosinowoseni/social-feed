@@ -1,0 +1,11 @@
+.inactive{
+    background-color: rgb(191, 193, 194);
+}
+
+.like-active{
+    background-color:rgb(92, 188, 117);
+}
+
+.dislike-active{
+    background-color: rgb(221, 64, 92);
+}
